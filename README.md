@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @EstherNjuguna
 - 👀 I’m interested in FullStack web Development, Data Analysis
-- 🌱 I’m currently learning Javascript,Ruby
+- 🌱 Stacks Javascript, Ruby on Rails, ReactJs, SQL
+- currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin https://www.linkedin.com/in/esternjuguna/
 
