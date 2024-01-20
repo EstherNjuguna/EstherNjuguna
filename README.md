@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C programming, Typescript JS and Python**
 
-- 📝 I regularly write articles on [https://medium.com/@esternjuguna](https://medium.com/@esternjuguna)
+- 📝 I regularly write articles on [https://wooblygeek.hashnode.dev/]([https://wooblygeek.hashnode.dev/])
 
 - 💬 Ask me about **React, C , Ruby on Rails**
 
